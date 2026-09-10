@@ -1,6 +1,6 @@
 # 🌱 Sustainable Shopping Behaviour Analysis
 
-![Dashboard Preview](dashboard-page-1.png)
+![Dashboard Preview](dashboard.png)
 
 ## 📌 Project Overview
 
@@ -40,7 +40,7 @@ The Power BI dashboard consists of **two interactive pages**, each focusing on a
 
 ### 📄 Page 1 — Sustainability Overview
 
-![Page 1 - Sustainability Overview](dashboard-page-1.png)
+![Page 1 - Sustainability Overview](dashboard.png)
 
 This page provides an overall view of product sustainability.
 
@@ -58,7 +58,7 @@ The page helps users quickly understand the **overall sustainability profile of 
 
 ### 📄 Page 2 — Price & Sustainability Analysis
 
-![Page 2 - Price & Sustainability Analysis](dashboard-page-2.png)
+![Page 2 - Price & Sustainability Analysis](dashboard2.png)
 
 This page focuses on the relationship between **product price and sustainability**.
 
